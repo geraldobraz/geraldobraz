@@ -14,4 +14,4 @@ My name is Geraldo Braz! Nice to meet you 😁. I'm a Software Engineer.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/geraldobraz)](https://github.com/geraldobraz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geraldo-braz-402361138/)](https://www.linkedin.com/in/geraldo-braz-402361138/)
-
+[![Linkedin Badge](https://img.shields.io/badge/Rocketseat-%20-blueviolet)](https://app.rocketseat.com.br/me/geraldo-neto-1566920667)
